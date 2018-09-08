@@ -1,0 +1,42 @@
+body {
+  text-align: center;
+  background-image: url("https://images4.alphacoders.com/592/592164.jpg");
+}
+
+h1 {
+  font-family: Monoton;
+  font-size: 65px;
+  margin: 0.3em;
+}
+
+h2 {
+  
+  margin: 1em 0 .25em;
+}
+
+h2:first-of-type {
+  margin-top: 0.5em;
+}
+
+table,
+tr,
+td {
+  border: 1px solid black;
+}
+
+table {
+  border-collapse: collapse;
+  margin: 0 auto;
+}
+
+tr {
+  height: 20px;
+}
+
+td {
+  width: 20px;
+}
+
+input[type="number"] {
+  width: 4em;
+}
